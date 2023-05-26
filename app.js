@@ -30,7 +30,7 @@ function Footer() {
   return(
     <div className="footer">
       <a href=""><img src="images/twitter.png" alt="social-media" /></a>
-      <a href=""><img src="images/twitter.png" alt="social-media" /></a>
+      <a href=""><img src="images/Facebook.png" alt="social-media" /></a>
       <a href=""><img src="images/github.png" alt="social-media" /></a>
     </div>
   )
