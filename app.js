@@ -5,7 +5,7 @@ function Header() {
       <h3 className="text">Aisosa Matthew</h3>
       <h5 className="text1">Frontend developer</h5>
       <div className="btn">
-        <button><i className="fa fa-envelope"></i> Email</button>
+        <button><i className="fa fa-envelope"></i> <a href="aisosamatthew247@gmail.com">Email</a></button>
         <button className="btn1"><i className="fa fa-linkedin-square"></i> LinkedIn</button>
       </div>
     </div>
