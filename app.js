@@ -1,7 +1,7 @@
 function Header() {
   return(
     <div>
-      <img src="images/logo.jpg" alt="profile" className="image" />
+      <img src="logo.jpg" alt="profile" className="image" />
       <h3 className="text">Aisosa Matthew</h3>
       <h5 className="text1">Frontend developer</h5>
       <div className="btn">
@@ -29,9 +29,9 @@ function Main() {
 function Footer() {
   return(
     <div className="footer">
-      <a href=""><img src="images/twitter.png" alt="social-media" /></a>
-      <a href=""><img src="images/Facebook.png" alt="social-media" /></a>
-      <a href=""><img src="images/github.png" alt="social-media" /></a>
+      <a href=""><img src="twitter.png" alt="social-media" /></a>
+      <a href=""><img src="Facebook.png" alt="social-media" /></a>
+      <a href=""><img src="github.png" alt="social-media" /></a>
     </div>
   )
 }
