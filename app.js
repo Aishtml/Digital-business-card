@@ -29,7 +29,7 @@ function Main() {
 function Footer() {
   return(
     <div className="footer">
-      <a href=""><img src="twitter.png" alt="social-media" /></a>
+      <a href="https://twitter.com/OgbeborAisosa3"><img src="twitter.png" alt="social-media" /></a>
       <a href="https://m.facebook.com/aisosa.matthew.180?wtsid=rdr_0b4aWol9ILqL1ggwY"><img src="Facebook.png" alt="social-media" /></a>
       <a href=""><img src="github.png" alt="social-media" /></a>
     </div>
